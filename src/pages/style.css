@@ -1,0 +1,6 @@
+
+table, th, tr, td { border: 1px solid black; padding: 5px;}
+table { width: 100%; border-collapse: collapse; padding: 15px;}
+table thead {font-weight: 600;}
+table td { color: #73879C;}
+table tr:hover {background-color: #f4f4f4 !important;}
